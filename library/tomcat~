@@ -1,0 +1,4 @@
+7-jre7: git://github.com/senk/docker-bashbrew@51de8e53bdff3c41d1ef5a5db0cf76fa979d2e25 tomcat/7/jre7
+7-jre8: git://github.com/senk/docker-bashbrew@51de8e53bdff3c41d1ef5a5db0cf76fa979d2e25 tomcat/7/jre8
+8-jre7: git://github.com/senk/docker-bashbrew@51de8e53bdff3c41d1ef5a5db0cf76fa979d2e25 tomcat/8/jre7
+8-jre8: git://github.com/senk/docker-bashbrew@51de8e53bdff3c41d1ef5a5db0cf76fa979d2e25 tomcat/8/jre8
