@@ -1,3 +1,0 @@
-7-jre: git://github.com/senk/docker-bashbrew@51de8e53bdff3c41d1ef5a5db0cf76fa979d2e25 java/7-jre
-8-jre: git://github.com/senk/docker-bashbrew@51de8e53bdff3c41d1ef5a5db0cf76fa979d2e25 java/8-jre
-
