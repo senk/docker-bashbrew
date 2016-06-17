@@ -1,2 +1,2 @@
-FROM rhel7
-RUN yum -y install java-1.8.0-openjdk tar
+FROM util:tar
+RUN yum -y install java-1.8.0-openjdk
