@@ -1,4 +1,4 @@
-Maintainers: Robin Naundorf <r.naundorf@lvm.de>
+Maintainers: Robin Naundorf <r.naundorf@lvm.de> (@senk)
 GitRepo: https://github.com/senk/docker-bashbrew.git
 
 Tags: 7-jre, 7, openjdk-7-jre
