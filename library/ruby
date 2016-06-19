@@ -2,6 +2,6 @@ Maintainers: Robin Naundorf <r.naundorf@lvm.de> (@senk)
 GitRepo: https://github.com/senk/docker-bashbrew.git
 
 Tags: 2
-GitCommit: dc6c852759cb54074b3f0b52a86e04fe28e35fa9
+GitCommit: 255d87ed3b3802dc0c991720c93215ee4655b8b9
 Directory: ruby
 
